@@ -103,6 +103,5 @@ Here are some helpful resources for learning more about Python:
 
 ---
 
-## Lorem ipsum dolor sit amet
 
 *Article content is generated using ChatGPT*
